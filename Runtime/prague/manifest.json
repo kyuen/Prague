@@ -1,0 +1,43 @@
+{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "Product Viewer"
+		}
+	],
+	"Description":
+	[
+		{
+			"Language": "en",
+			"Text": "This project template provides navigation and interaction for various platforms (Desktop, VR, Mobile). Use as a starting point for Industrial or Architectural projects."
+		}
+	],
+	"AssetTypes":
+	[
+		{
+			"Language": "en",
+			"Text": ""
+		}
+	],	
+	"SearchTags":
+	[
+		{
+			"Language": "en",
+			"Text": "Product Viewer"
+		}
+	],
+	"ClassTypes": "Actor",
+	"Category": "EnterpriseFeature",
+	"FocusAsset": "/Game/ProductViewer/ProductViewer.ProductViewer",
+	"Thumbnail": "TP_ProductViewer.png",
+	"Screenshots":
+	[
+		"TP_ProductViewer_Preview.png"
+	],
+	"SortKey": "TP_ProductViewer",
+	"AdditionalFeaturePacks":
+	[
+	]
+}

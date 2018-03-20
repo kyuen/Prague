@@ -1,0 +1,4 @@
+../../../Templates/TP_ProductViewer/manifest.json
+../../../Templates/TP_ProductViewer/Config/config.ini
+../../../Templates/TP_ProductViewer/Media/TP_ProductViewer.png
+../../../Templates/TP_ProductViewer/Media/TP_ProductViewer_Preview.png
